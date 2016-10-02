@@ -14,4 +14,5 @@ Running on swift 3.0
 # Credits
 Original graphical assets were provided by [Udacity](https://www.udacity.com/).
 The concept for this app was presented during the course Intro to iOS App Development with Swift provided by [Udacity](https://www.udacity.com/).
-
+# License
+Freely provided under the MIT License.
